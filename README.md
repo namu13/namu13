@@ -10,6 +10,9 @@
 ![ReactNative](https://img.shields.io/badge/-ReactNative-222222.svg?&style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=fff)
 
+## About Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:namun1303@gmail.com)](mailto:namun1303@gmail.com)
+[![Velog](https://img.shields.io/badge/-Velog-14B885.svg?&style=for-the-badge&logo=Velog&logoColor=fff)](https://velog.io/@namu)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamu13&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
