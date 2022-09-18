@@ -26,11 +26,17 @@
 </a>
 </div>
 
+<h2 align="center">🔥 Recent blog post 🔥</h2>
+<div align="center">
+<ol><a href="https://velog.io/@namu/React-Native-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%AA%85-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%AA%85-%EB%B3%80%EA%B2%BD">React Native 프로젝트명, 패키지명 변경</a>
+</div>
+
 <h1></h1>
 <div align="center">
 <a href="https://hits.seeyoufarm.com">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamu13&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)" />
 </a>
+
 
 <!--
 **namu13/namu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
