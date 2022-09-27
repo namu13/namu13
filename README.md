@@ -1,5 +1,5 @@
 <h1 align="center">👋🏼 Hi! I'm Hyunseo</h1>
-<h3 align="center">Web Frontend developer / Daily commit challenge</h3>
+<h3 align="center">Web Frontend developer </h3>
 <div align="center">
 <a src="https://git.io/streak-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=namu13&theme=dark&hide_border=true" />
